@@ -8,33 +8,49 @@ Monkey_Study_Notes
 移动互联网应用测试学习
 -------------
 > [如何做好移动互联网应用测试](http://www.testerhome.com/topics/1553 "Title")  <br />
-> [移动互联网应用测试面试](http://www.testerhome.com/topics/1486 "Title")
-> [论移动互联网测试还能活（火）多久](http://www.testerhome.com/topics/1217 "Title")
-> [测试金字塔新解之移动无线应用测试](http://www.testerhome.com/topics/614 "Title")
+> [移动互联网应用测试面试](http://www.testerhome.com/topics/1486 "Title")<br />
+> [论移动互联网测试还能活（火）多久](http://www.testerhome.com/topics/1217 "Title")<br />
+> [测试金字塔新解之移动无线应用测试](http://www.testerhome.com/topics/614 "Title")<br />
 
 
 
 
 《大话移动测试》 清华大学出版社 
 -------------
-> [《大话移动测试——Android 与 iOS 应用测试指南》第二版增加内容](http://www.testerhome.com/topics/1169 "Title")
+> [《大话移动测试——Android 与 iOS 应用测试指南》第二版增加内容](http://www.testerhome.com/topics/1169 "Title")<br />
+> [新书试读，第八章性能和兼容性测试](http://www.testerhome.com/topics/453 "Title")<br />
+> [Monkey 移动无线测试新书第二章 2.6、2.7 试读](http://www.testerhome.com/topics/417 "Title")<br />
+
+python
+-------------
+> [python 对比图片相似度](http://www.testerhome.com/topics/202 "Title")<br />
+
+
+
 
 Android性能
 -------------
-> [python 之 Android 通用性能开源工具 0.000001 版](http://www.testerhome.com/topics/637 "Title")
+> [python 之 Android 通用性能开源工具 0.000001 版](http://www.testerhome.com/topics/637 "Title")<br />
+> [Android 应用性能测试方案一之 log 分析](http://www.testerhome.com/topics/529 "Title")<br />
+> [traceView 简单 demo](http://www.testerhome.com/topics/488 "Title")<br />
+> [移动性能测试初探](http://www.testerhome.com/topics/360 "Title")<br />
 
 
 
 Swift
 -------------
 > [swift 第一个 app](http://www.testerhome.com/topics/1450 "Title")<br />
-> [Swift 第二个 app](http://www.testerhome.com/topics/1465 "Title")
+> [Swift 第二个 app](http://www.testerhome.com/topics/1465 "Title")<br />
 
 安全
 -------------
-> [iOS 外部修改 VisibleView](http://www.testerhome.com/topics/1376 "Title")
-> [ContentProvider](http://www.testerhome.com/topics/714 "Title")
+> [iOS 外部修改 VisibleView](http://www.testerhome.com/topics/1376 "Title")<br />
+> [ContentProvider](http://www.testerhome.com/topics/714 "Title")<br />
 
+
+Android
+-------------
+> [Make Android App By Python](http://www.testerhome.com/topics/578 "Title")<br />
 
 
 iOS
@@ -61,6 +77,14 @@ Calabash
 -------------
 > [calabash iOS 新建项目流程](http://www.testerhome.com/topics/1528 "Title")
 > [Calabash 使用以及修改](http://www.testerhome.com/topics/953 "Title")
+
+robolectric
+-------------
+> [robolectric 无脑例子](http://www.testerhome.com/topics/231 "Title")
+
+Espresso
+-------------
+> [Espresso 自写无脑例子尝试](http://www.testerhome.com/topics/198 "Title")
 
 
 
