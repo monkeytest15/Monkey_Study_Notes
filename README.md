@@ -51,6 +51,8 @@ Swift
 Android
 -------------
 > [Make Android App By Python](http://www.testerhome.com/topics/578 "Title")<br />
+> [sdk测试小结@ lifreshman](http://testerhome.com/topics/1660 "Title")<br />
+
 
 
 iOS
