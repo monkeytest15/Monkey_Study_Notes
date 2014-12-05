@@ -71,6 +71,10 @@ Gradle
 > [Java Project Gradle Emma](http://www.testerhome.com/topics/1135 "Title")
 > [gradle 初步构建（一）](http://www.testerhome.com/topics/1128 "Title")
 
+Robotium
+-------------
+> [Robotium 专题（一）：Robotium 测试---正确地为安装包重新签名@bill](http://testerhome.com/topics/1641 "Title")
+> [Robotium 专题（二）： Robotium 只有 apk 文件时进行测试@bill](http://testerhome.com/topics/1655 "Title")
 
 
 Calabash
