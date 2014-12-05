@@ -34,6 +34,14 @@ Android性能
 > [Android 应用性能测试方案一之 log 分析](http://www.testerhome.com/topics/529 "Title")<br />
 > [traceView 简单 demo](http://www.testerhome.com/topics/488 "Title")<br />
 > [移动性能测试初探](http://www.testerhome.com/topics/360 "Title")<br />
+> [Android 性能测试初探（一）by kasi](http://testerhome.com/topics/470 "Title")<br />
+> [Android 性能测试初探（二）by kasi](http://testerhome.com/topics/479 "Title")<br />
+> [Android 性能测试初探（三）by kasi](http://testerhome.com/topics/484 "Title")<br />
+> [Android 性能测试初探（四）by kasi](http://testerhome.com/topics/486 "Title")<br />
+> [Android 性能测试初探（五）by kasi](http://testerhome.com/topics/502 "Title")<br />
+> [Android 性能测试初探（六）by kasi](http://testerhome.com/topics/503 "Title")<br />
+
+
 
 
 
@@ -51,7 +59,7 @@ Swift
 Android
 -------------
 > [Make Android App By Python](http://www.testerhome.com/topics/578 "Title")<br />
-> [sdk测试小结@ lifreshman](http://testerhome.com/topics/1660 "Title")<br />
+> [sdk测试小结 by lifreshman](http://testerhome.com/topics/1660 "Title")<br />
 
 
 
@@ -75,14 +83,16 @@ Gradle
 
 Robotium
 -------------
-> [Robotium 专题（一）：Robotium 测试---正确地为安装包重新签名@bill](http://testerhome.com/topics/1641 "Title")<br />
-> [Robotium 专题（二）： Robotium 只有 apk 文件时进行测试@bill](http://testerhome.com/topics/1655 "Title")<br />
+> [Robotium 专题（一）：Robotium 测试---正确地为安装包重新签名 by bill](http://testerhome.com/topics/1641 "Title")<br />
+> [Robotium 专题（二）： Robotium 只有 apk 文件时进行测试 by bill](http://testerhome.com/topics/1655 "Title")<br />
 
 
 Calabash
 -------------
 > [calabash iOS 新建项目流程](http://www.testerhome.com/topics/1528 "Title")<br />
 > [Calabash 使用以及修改](http://www.testerhome.com/topics/953 "Title")<br />
+> [Calabash 学习经验小结 by astro2linus](http://testerhome.com/topics/1173 "Title")<br />
+
 
 robolectric
 -------------
