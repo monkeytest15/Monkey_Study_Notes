@@ -80,6 +80,13 @@ Gradle
 > [Android Project Gradle jacoco](http://www.testerhome.com/topics/1136 "Title")<br />
 > [Java Project Gradle Emma](http://www.testerhome.com/topics/1135 "Title")<br />
 > [gradle 初步构建（一）](http://www.testerhome.com/topics/1128 "Title")<br />
+> [Groovy 初探（一）](http://testerhome.com/topics/1700 "Title")<br />
+> [gradle 集成修改 Android Manifest.xml 打多个包实践](http://testerhome.com/topics/1708 "Title")<br />
+> [Gradle 编译交互小技巧](http://testerhome.com/topics/1711 "Title")<br />
+
+
+
+
 
 Robotium
 -------------
@@ -102,6 +109,9 @@ Espresso
 -------------
 > [Espresso 自写无脑例子尝试](http://www.testerhome.com/topics/198 "Title")<br />
 
+R
+-------------
+> [数据分析 R 语言之基础图形绘制入门](http://testerhome.com/topics/1741 "Title")<br />
 
 
 
